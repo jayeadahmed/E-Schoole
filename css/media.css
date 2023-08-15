@@ -1,0 +1,119 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /*header start*/
+    .e_scl{
+        margin: 5px 10px;
+    }
+    /*bunner start*/
+    .bnr_h1{
+        font-size: 35px;
+        line-height: 50px;
+        padding: 0;
+    } 
+    .bnr_text {
+        margin: 0; 
+        line-height: 30px;  
+    
+ }
+    .btn_get {
+    padding: 5px 10px;
+    }
+    .box_com{
+        margin-bottom: 0 !important;
+    }
+
+    .card_bg {
+        margin: 10px 0;
+}
+
+.float-end{
+    float: none !important;
+}
+
+.about_text {
+    padding: 15px 0 !important;
+}
+
+/*footer start*/
+.f_text {
+    padding-right: 0;
+}
+
+
+
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   /*header start*/
+    .e_scl {
+        margin: 5px 118px;
+    }
+    margin-bottom: 5px;
+    padding: 0 15px !important;
+    color: #000 !important;
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /*header start*/
+    .e_scl {
+        margin: 5px 202px;
+    }
+    .memu ul li a {
+        margin-bottom: 10px;
+        padding: 0 10px !important;
+        color: #000 !important;
+    }
+
+    /*bunner start*/
+    .bnr_h1 {
+        margin-right: 160px;
+    }
+    .b_h2{
+        font-size: 20px;
+    }
+
+    .about_text {
+        padding:0 !important;
+    }
+    /*footer start*/
+.f_text {
+    padding-right: 0;
+}
+
+
+
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*bunner start*/
+    .bnr_h1 {
+        font-size: 44px;
+        padding: 0;
+        line-height: 50px;
+
+    }
+    .bnr_text {
+    margin-right: 0px;
+    line-height: 36px;
+    padding: 0; 
+    
+}
+
+.about_text {
+    padding: 10px 20px 10px 20px !important;
+
+}
+}
+
+/* extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+ }
+
+/* Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+    
+ }

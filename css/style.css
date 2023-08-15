@@ -1,0 +1,184 @@
+/*fonts link*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&family=Poppins:wght@400;500;700&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*common text start*/
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+/*common text end*/
+
+/*header start*/
+header{
+    background-color: #F0FFF0;
+    padding: 15px 0;
+}
+.c_nav{
+    
+}
+.logo{}
+.e_scl{
+    float: right;
+    color: #56548C;
+    font-weight: 700;
+    padding: 5px;
+    width: 120px;
+    height: 30px;
+}
+.memu{}
+.memu ul li a{
+    padding: 0 20px !important;
+    color: #000 !important;
+}
+.memu ul li a:hover{
+    color: #21B573 !important;
+}
+.btn_com{
+    font-family: 'Roboto', sans-serif;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn_sing{
+    /*padding: 12px 28px;*/
+    width: 105px;
+    height: 45px;
+    margin-left: 15px;
+}
+.btn_com:hover{
+    background-color: #282531;
+}
+.btn_com:active{
+    background-color: #282531 !important;
+}
+/*header end*/
+
+/*bunner start*/
+.bunner{
+   
+        background-color: #F0FFF0;
+        padding: 15px 0;
+    
+}
+.box_1{
+    margin: 20px 0px;
+}
+
+.text_1{
+
+}
+.bn_img{
+    vertical-align: middle;
+    width: 100%;
+}
+
+.bnr_h1{
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    color: #000;
+    padding: 15px 0;
+}
+.h1_color{
+    color: #21B573;
+}
+.bnr_text{
+    margin-right: 105px;
+    line-height: 36px;
+    padding: 15px 0;
+    font-weight: bold;
+}
+.btn_get{
+    padding: 10px 35px;
+}
+
+/*bunner end*/
+
+/*books start*/
+.box_com{
+    margin: 40px 0;
+    background-color: #F0FFF0;
+    text-align: center;
+    border-radius: 10px
+}
+.img_com{
+    margin: 35px 0;
+}
+.b_h2{
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500;
+}
+.b_p{
+    color: #585859;
+    padding-bottom: 25px;
+}
+
+/*heading text start*/
+.h_text{
+    margin: 50px 0;
+    font-size: 36px;
+    font-weight: 700;
+    color: #413960;
+}
+
+/*heading text end*/
+
+/*card start*/
+.card_bg{
+    margin: 50px 0;
+    background-color: #F0FFF0;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+    border-radius: 18px;
+}
+.card_bg img{
+    width: 100%;
+    padding: 25px 20px;
+}
+.b_card{
+    padding: 5px 25px;
+}
+.pdn{
+    padding: 0
+}
+.card_img{
+    width: 25px !important;
+    padding: 0 !important;
+}
+
+.C_bdr{
+    padding: 15px 20px
+}
+.pdn_card{
+    padding: 0 20px;
+}
+/*card end*/
+.about_text{
+    padding: 15px 253px 15px 20px !important;
+    line-height: 30px;
+}
+/*footer start*/
+.footer{
+    margin-top: 60px;
+    background-color: #282531;
+    color: white;
+    padding: 50px 0 0;
+    line-height: 35px;
+}
+.f_text{
+    padding-right: 247px;
+}
+.f_text2{
+    padding: 0px 68px 0px 0px;
+
+}
+.jayead{
+    margin-top: 80px;
+}
